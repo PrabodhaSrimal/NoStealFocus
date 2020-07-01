@@ -1,0 +1,10 @@
+{
+  "description": "Genome Shell extension to stop apps stealing focus (like MS Teams app for Linux)", 
+  "name": "NoStealFocus", 
+  "shell-version": [
+    "3.36"
+  ], 
+  "url": "https://github.com/PrabodhaSrimal/NoStealFocus", 
+  "uuid": "37f3a92a-f016-4735-8f5d-72d083ae25e7"
+}
+
